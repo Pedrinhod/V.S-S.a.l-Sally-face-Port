@@ -1,0 +1,31 @@
+{
+	"storyName": "Sally Funk",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sal",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		160,
+		209,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Nockfell",
+			"SALLY",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"sal",
+		"bf",
+		"gf"
+	],
+	"weekName": "sal"
+}
