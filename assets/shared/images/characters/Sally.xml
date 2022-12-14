@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sally.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sally down0000" x="26" y="25" width="394" height="545"/>
+	<SubTexture name="sally down0001" x="26" y="25" width="394" height="545"/>
+	<SubTexture name="sally down0002" x="450" y="23" width="397" height="546"/>
+	<SubTexture name="sally down0003" x="450" y="23" width="397" height="546"/>
+	<SubTexture name="sally idle0000" x="892" y="8" width="419" height="591"/>
+	<SubTexture name="sally idle0001" x="892" y="8" width="419" height="591"/>
+	<SubTexture name="sally idle0002" x="1341" y="7" width="426" height="597"/>
+	<SubTexture name="sally idle0003" x="1341" y="7" width="426" height="597"/>
+	<SubTexture name="sally left0000" x="1839" y="12" width="393" height="604"/>
+	<SubTexture name="sally left0001" x="1839" y="12" width="393" height="604"/>
+	<SubTexture name="sally left0002" x="2260" y="10" width="385" height="605"/>
+	<SubTexture name="sally left0003" x="2260" y="10" width="385" height="605"/>
+	<SubTexture name="sally right0000" x="3" y="639" width="382" height="604"/>
+	<SubTexture name="sally right0001" x="3" y="639" width="382" height="604"/>
+	<SubTexture name="sally right0002" x="414" y="638" width="385" height="605"/>
+	<SubTexture name="sally right0003" x="414" y="638" width="385" height="605"/>
+	<SubTexture name="sally up0000" x="915" y="613" width="389" height="669"/>
+	<SubTexture name="sally up0001" x="915" y="613" width="389" height="669"/>
+	<SubTexture name="sally up0002" x="1332" y="613" width="391" height="674"/>
+	<SubTexture name="sally up0003" x="1332" y="613" width="391" height="674"/>
+</TextureAtlas>
